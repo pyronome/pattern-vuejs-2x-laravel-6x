@@ -8,6 +8,10 @@ This repository contains Pyronome **Vue.js 2.x for Laravel 6.x** pattern basic i
 
 Please refer to the [Getting Started](https://github.com/pyronome/pattern-vuejs-2x-laravel-6x#getting-started) section for step by step instructions.
 
+## Status: Experimental
+
+Not available for production environments. The stable version is coming soon.
+
 ## Getting Started
 
 Please follow the steps below to generate source code using **Vue.js 2.x for Laravel 6.x** pattern:
